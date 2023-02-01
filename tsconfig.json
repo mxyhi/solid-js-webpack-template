@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "allowSyntheticDefaultImports": true,
+    "jsx": "preserve",
+    "allowJs": false,
+    "jsxImportSource": "solid-js",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "isolatedModules": true
+  },
+  "include": ["src/**/*"],
+}
